@@ -1,7 +1,6 @@
 # 📋 Risk Treatment Plan — Template
 
 **XUST Enterprise Risk Management · GRC Campus**
-*Companion to the Risk Mitigation Strategies reference and the XUST Risk Register suite.*
 
 ---
 
