@@ -78,6 +78,6 @@ XUST will not renew the EduPay contract unless the vendor provides independent a
 
 | Role | Name | Signature / Approval Date |
 |---|---|---|
-| **Risk Owner (Business)** | J. Dlamini, Director of Human Resources | *Approved via DocuSign (2024-03-18)* |
-| **Advisory (Security/GRC)** | [Your Name], Senior GRC Analyst | *Approved via DocuSign (2024-03-16)* |
-| **Final Authority** | Prof. S. Naidoo, Chair: Audit & Risk Committee | *Approved via Board Portal (2024-03-25)* |
+| **Risk Owner (Business)** | Redacted, Director of Human Resources | *Approved via AdobeSign (2024-03-18)* |
+| **Advisory (Security/GRC)** | [Chris Ejike], Senior GRC Analyst | *Approved via AdobeSign (2024-03-16)* |
+| **Final Authority** | Redacted, Chair: Audit & Risk Committee | *Approved via Board Portal (2024-03-25)* |
