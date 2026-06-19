@@ -5,7 +5,7 @@
 ---
 
 > [!IMPORTANT]
-> A Risk Treatment Plan (RTP) is completed for every risk where the chosen response is **T2 · Treat**, and for any **T1 · Tolerate** decision involving a strategic or high-impact risk that requires formal endorsement. One RTP per risk. Attach it to, or cross-reference it from, the relevant risk register entry.
+> A Risk Treatment Plan (RTP) is completed for every risk where the chosen response from the available [mitigation strategies](https://github.com/TheExpertApprentice/grc-risk-management/blob/main/mitigation-strategies.md) is **T2 · Treat**, and for any **T1 · Tolerate** decision involving a strategic or high-impact risk that requires formal endorsement. One RTP per risk. Attach it to, or cross-reference it from, the relevant risk register entry.
 
 ---
 
