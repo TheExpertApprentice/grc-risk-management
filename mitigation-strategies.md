@@ -1,7 +1,7 @@
-# 🛡️ Risk Mitigation Strategies — Reference Guide
+# Risk Mitigation Strategies — Reference Guide
 
-**XUST Enterprise Risk Management · GRC Campus**
-*Companion reference to the Risk Appetite & Tolerance Practice Note and the XUST Risk Register suite.*
+**XUST Enterprise Risk Management**
+*A companion reference to the Risk Appetite & Tolerance Practice Note and the XUST Risk Register suite.*
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## The five responses at a glance
+## The Mitigation Options 
 
 | Code | Strategy | Plain-language intent | Typically used when… |
 |:--:|---|---|---|
@@ -21,6 +21,43 @@
 | **T5** | **Take / Pursue** (Exploit) | Lean in for the upside | The "risk" is an opportunity worth pursuing deliberately |
 
 > The first letter is always **T** — a deliberate memory aid: *Tolerate, Treat, Transfer, Terminate, Take.*
+
+---
+
+## Choosing a response — decision logic
+
+```
+            ┌─────────────────────────────────────────────┐
+            │   Assess inherent risk (Likelihood × Impact) │
+            └───────────────────────┬─────────────────────┘
+                                    ▼
+                   Is residual within risk appetite?
+                          │                   │
+                        YES                   NO
+                          │                   │
+                          ▼                   ▼
+                   ┌────────────┐   Is the activity essential?
+                   │ T1 Tolerate│        │             │
+                   │ (monitor)  │       YES            NO
+                   └────────────┘        │             │
+                                         ▼             ▼
+                            Can controls reduce it?   ┌────────────┐
+                                 │          │         │ T4         │
+                                YES        NO         │ Terminate  │
+                                 │          │         └────────────┘
+                                 ▼          ▼
+                         ┌────────────┐  Is impact insurable/
+                         │ T2 Treat   │  contractually shareable?
+                         └────────────┘     │          │
+                                           YES         NO
+                                            │          │
+                                            ▼          ▼
+                                     ┌────────────┐  Escalate to
+                                     │ T3 Transfer│  RMC / EMC for
+                                     └────────────┘  tolerance decision
+```
+
+> Opportunities follow a parallel path: where uncertainty carries strategic upside, consider **T5 · Take** rather than defaulting to a downside-only response.
 
 ---
 
@@ -121,43 +158,6 @@
 
 **Endorsement authority:**
 - Endorsed by the **EMC** as part of strategic planning, with material commitments reported to **Council**.
-
----
-
-## Choosing a response — decision logic
-
-```
-            ┌─────────────────────────────────────────────┐
-            │   Assess inherent risk (Likelihood × Impact) │
-            └───────────────────────┬─────────────────────┘
-                                    ▼
-                   Is residual within risk appetite?
-                          │                   │
-                        YES                   NO
-                          │                   │
-                          ▼                   ▼
-                   ┌────────────┐   Is the activity essential?
-                   │ T1 Tolerate│        │             │
-                   │ (monitor)  │       YES            NO
-                   └────────────┘        │             │
-                                         ▼             ▼
-                            Can controls reduce it?   ┌────────────┐
-                                 │          │         │ T4         │
-                                YES        NO         │ Terminate  │
-                                 │          │         └────────────┘
-                                 ▼          ▼
-                         ┌────────────┐  Is impact insurable/
-                         │ T2 Treat   │  contractually shareable?
-                         └────────────┘     │          │
-                                           YES         NO
-                                            │          │
-                                            ▼          ▼
-                                     ┌────────────┐  Escalate to
-                                     │ T3 Transfer│  RMC / EMC for
-                                     └────────────┘  tolerance decision
-```
-
-> Opportunities follow a parallel path: where uncertainty carries strategic upside, consider **T5 · Take** rather than defaulting to a downside-only response.
 
 ---
 
