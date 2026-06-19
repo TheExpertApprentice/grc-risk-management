@@ -4,7 +4,7 @@
 
 > **Guidance Note:** A formal risk acceptance is not a waiver to ignore security. It is a governance mechanism to acknowledge a known deficiency, quantify the exposure, implement compensating controls, and assign accountability for the residual risk until a permanent fix is viable. This template is designed to survive scrutiny from external auditors and regulators.
 > 
-> While the worked example in this repository focuses on a **third-party vendor risk**, this template applies equally to **internal legacy systems** (e.g., an end-of-life Student Information System). When adapting for legacy systems, the constraint language typically shifts from contractual terms to technical debt, migration timelines, and lack of vendor support patches.
+> While the example in this repository focuses on a **third-party vendor risk**, this template applies equally to various real-life scenarios like **internal legacy systems** (e.g., an end-of-life Student Information System; port opened on internal facing systems). When adapting for legacy systems for instance, the constraint language typically shifts from contractual terms to technical debt, migration timelines, and lack of vendor support patches.
 
 ---
 
@@ -64,8 +64,8 @@
 [Detail the long-term plan to eliminate the risk. E.g., "Migrate to new vendor upon contract expiry in Q3 2025," or "Decommission legacy system post-ERP migration."]
 
 **Milestones:**
-- [Date]: [Action]
-- [Date]: [Action]
+- 
+- 
 
 ## 7. Approvals
 
@@ -73,6 +73,6 @@
 
 | Role | Name | Signature / Approval Date |
 |---|---|---|
-| **Risk Owner (Business)** | [e.g., Director of HR, Dean of Faculty] | [Date] |
-| **Advisory (Security/GRC)** | [e.g., CISO, Information Security Manager] | [Date] |
-| **Final Authority (If High/Critical)**| [e.g., Audit & Risk Committee Chair] | [Date] |
+| **Risk Owner (Business)** | [e.g., Director of HR, Dean of Faculty] | `redacted` |
+| **Advisory (Security/GRC)** | [e.g., CISO, Information Security Manager] | `redacted` |
+| **Final Authority (If High/Critical)**| [e.g., Audit & Risk Committee Chair] | `redacted` |
