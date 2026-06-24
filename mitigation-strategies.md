@@ -85,7 +85,7 @@
 
 ## T2 · Treat (Reduce / Mitigate)
 
-**Definition.** The application of one or more controls to reduce a risk's **likelihood**, its **impact**, or both — moving the residual rating into the acceptable zone.
+**Definition.** The application of one or more controls to reduce a risk's **likelihood**, its **impact**, or both, moving the residual rating into the acceptable zone.
 
 **Qualification criteria — treat when:**
 1. The inherent or current residual risk **exceeds the risk appetite**, and
@@ -114,7 +114,7 @@
 3. Transfer is **more cost-effective** than treating the risk to an acceptable level internally.
 
 **Conditions that must be satisfied:**
-- It is understood that transfer addresses **financial consequence**, not **accountability** — reputational and regulatory accountability (e.g. under POPIA, the University remains the responsible party) usually **cannot** be transferred.
+- It is understood that transfer addresses **financial consequence**, not **accountability**. Also, reputational and regulatory accountability (e.g. under POPIA, the University remains the responsible party) usually **cannot** be transferred.
 - The transfer instrument (insurance policy, SLA, indemnity clause) is **reviewed by Legal** and its coverage limits, exclusions, and triggers are documented.
 - **Residual retained risk** (deductibles, uninsured portions, counterparty failure) is itself recorded and managed.
 
@@ -135,7 +135,7 @@
 
 **Conditions that must be satisfied:**
 - The **knock-on impact** of terminating the activity (lost opportunity, dependency on it elsewhere) is assessed and documented.
-- Where the activity is essential and cannot truly be terminated, this response is **invalid** — the risk must instead be treated and escalated.
+- Where the activity is essential and cannot truly be terminated, this option is **invalid**. In such cases, the risk must instead be treated and escalated.
 
 **Endorsement authority:**
 - Termination of a **strategic** activity or programme: decided by the **EMC** and reported to **Council** via the Audit & Risk Committee.
@@ -144,7 +144,7 @@
 
 ## T5 · Take / Pursue (Exploit the opportunity)
 
-**Definition.** A deliberate decision to accept and actively pursue a risk because its potential **upside** (opportunity) outweighs its downside — the positive counterpart to tolerate.
+**Definition.** A deliberate decision to accept and actively pursue a risk because its potential **upside** (opportunity) outweighs its downside. The positive counterpart to tolerate.
 
 **Qualification criteria — take when:**
 1. The uncertainty carries a credible **opportunity** (new revenue stream, research partnership, competitive advantage), and
